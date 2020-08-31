@@ -1,8 +1,7 @@
 # Hi there 👋, I'm Mafe :)
 ## I'm a Computer Science student at @ University of Sao Paulo - Brazil
 
-<br>
-
+<hr>
 - :mag: I'm currently working at [PET Computação](https://github.com/pet-comp) and [SEMCOMP](https://semcomp.icmc.usp.br/)
 - :book: I'm currently learning about Information Security and Data Science
 - :round_pushpin: I'm always up for new challenges!
