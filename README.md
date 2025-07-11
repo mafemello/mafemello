@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Mafe :)
-## I'm a Computer Science alumni at @ University of Sao Paulo - Brazil
+## I'm a Computer Science alumni @ University of Sao Paulo - Brazil
 
 - :mag: I'm currently working as a web fullstack developer at [BTG Pactual](https://www.btgpactual.com/)
 - :pushpin: Check my [Linkedin](https://www.linkedin.com/in/maria-fernanda-mello-296709187/)!
