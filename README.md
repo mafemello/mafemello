@@ -2,4 +2,4 @@
 
 - software engineer @ btg pactual
 - B.Sc. in computer science @ university of são paulo (usp)
-- [LinkedIn](https://www.linkedin.com/in/maria-fernanda-mello-296709187/)
+- [LinkedIn](https://www.linkedin.com/in/maria-fernanda-mello/)
