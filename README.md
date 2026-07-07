@@ -4,12 +4,8 @@
 - B.Sc. in computer science @ university of são paulo (usp)
 - building things for fun
 
-## currently building
+play **Wiki Clicky**, my daily Wikipedia puzzle game:
+https://wiki-clicky.com
 
-**Wiki Clicky** — https://wiki-clicky.com
-
-*A daily Wikipedia puzzle game.*
-
-## find me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/maria-fernanda-mello-/)
+**find me**:
+- [LinkedIn](https://www.linkedin.com/in/maria-fernanda-mello-/)
